@@ -1,5 +1,7 @@
 ### Hi, i'm Bozhena ✨
 
+![giphy](https://github.com/bzhenka/bzhenka/assets/123626256/7b1b3023-34ef-4b49-96cf-d528197d59f3)
+
 
 <!--
 **bzhenka/bzhenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
