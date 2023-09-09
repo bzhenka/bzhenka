@@ -1,4 +1,5 @@
 ### Hi, i'm Bozhena ✨
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video" width="480"></iframe></div>
 
 <!--
 **bzhenka/bzhenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
