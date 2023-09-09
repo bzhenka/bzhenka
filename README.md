@@ -1,4 +1,7 @@
 ### Hi, i'm Bozhena ✨
+📌 I study at ITMO University, in the program "Informatics and Computer Science".
+📜 Here you will find Java programming labs for the first course.
+🤍 If you want to contact me: t.me/@Bzhnan
 
 ![giphy](https://github.com/bzhenka/bzhenka/assets/123626256/7b1b3023-34ef-4b49-96cf-d528197d59f3)
 
