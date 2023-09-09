@@ -1,5 +1,5 @@
 ### Hi, i'm Bozhena ✨
-📌 I study at ITMO University, in the program "Informatics and Computer Science".
+📌 I study at [ITMO University](https://itmo.ru), in the program "Informatics and Computer Science".
 
 📜 Here you will find Java programming labs for the first course.
 
